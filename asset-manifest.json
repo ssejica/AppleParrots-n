@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AppleParrots-n/static/css/main.2b986bcf.css",
+    "main.js": "/AppleParrots-n/static/js/main.5a51a83a.js",
+    "static/media/item8.png": "/AppleParrots-n/static/media/item8.c64cf4c708a7c77358d9.png",
+    "static/media/item2.jpg": "/AppleParrots-n/static/media/item2.ed79d16e4d68898301b8.jpg",
+    "static/media/item5.png": "/AppleParrots-n/static/media/item5.8fd9ab17b9b22c0aba52.png",
+    "static/media/item3.jpg": "/AppleParrots-n/static/media/item3.5e4c0ee62c1bc71a76a2.jpg",
+    "static/media/item1.jpg": "/AppleParrots-n/static/media/item1.0789a455a8435eafc2c4.jpg",
+    "static/media/item4.png": "/AppleParrots-n/static/media/item4.7a62d8843a432b26d788.png",
+    "static/media/item7.png": "/AppleParrots-n/static/media/item7.afb519fb383f3c1c0c7c.png",
+    "static/media/item6.jpg": "/AppleParrots-n/static/media/item6.7f5b32fd2184d102ee87.jpg",
+    "static/media/promo-image.jpg": "/AppleParrots-n/static/media/promo-image.6685bddf16a11fa1dd65.jpg",
+    "static/media/slick.svg": "/AppleParrots-n/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/AppleParrots-n/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/AppleParrots-n/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/AppleParrots-n/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/AppleParrots-n/index.html",
+    "main.2b986bcf.css.map": "/AppleParrots-n/static/css/main.2b986bcf.css.map",
+    "main.5a51a83a.js.map": "/AppleParrots-n/static/js/main.5a51a83a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b986bcf.css",
+    "static/js/main.5a51a83a.js"
+  ]
+}
