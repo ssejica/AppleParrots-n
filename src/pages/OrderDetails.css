@@ -1,0 +1,66 @@
+.orderdetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: #f6f6f6;
+}
+
+.orderdetails-heading {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.search-bar {
+  width: 300px;
+  height: 2rem;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.search-button {
+  width: 120px;
+  height: 2.5rem;
+  color: #fff;
+  background-color: #09bef0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.search-button:hover {
+  background-color: #0998cc;
+}
+
+.order-status {
+  font-size: 1.5rem;
+  color: #444;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.order-items {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+.order-items th, .order-items td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+}
+
+.order-items th {
+  background-color: #09bef0;
+  color: #fff;
+}
+
+.order-items td {
+  background-color: #fff;
+  color: #333;
+}
